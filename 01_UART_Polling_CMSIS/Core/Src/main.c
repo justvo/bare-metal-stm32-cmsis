@@ -1,4 +1,5 @@
 #include "main.h"
+#include "stm32f3xx.h"
 
 int main(void) {
 
