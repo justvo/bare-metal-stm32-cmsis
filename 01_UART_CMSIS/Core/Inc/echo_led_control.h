@@ -10,8 +10,8 @@
 
 #include "stm32f3xx.h"
 
-void LED_ECHO_Control(uint8_t data);
-
+void LED_ON(void);
+void LED_OFF(void);
 
 
 #endif /* INC_ECHO_LED_CONTROL_H_ */
